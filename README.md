@@ -1,6 +1,6 @@
 # Movie Guide 🎥🍿
 
-Discover amazing movies with our Movie Guide! Visit: https://iam269.github.io/Movie-Guide/
+Discover amazing movies with our Movie Guide! Visit: https://itsiamdev.github.io/Movie-Guide/
 
 ## Features
 
